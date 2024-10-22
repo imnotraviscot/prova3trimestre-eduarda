@@ -1,25 +1,25 @@
 body {
-    background-color:  rgb(255, 249, 249);
+    background-color:  rgb(245, 221, 221);
     margin: 0px;
 }
 
 nav a {
     margin-top: 5%;
     font-size: small;
-color: rgb(0, 0, 0);
+color: rgb(255, 88, 88);
 }
 p{
     color: rgb(214, 42, 42);
 }
     .corinthians {
         font-style: initial;
-        color: rgb(0, 0, 0);
+        color: rgb(94, 2, 2);
     }
 
 
     h1 {
         text-align: center;
-        color: rgb(0, 0, 0)
+        color: rgb(220, 78, 248)
     }
     h2 {
         text-align: center;
